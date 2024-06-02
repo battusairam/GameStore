@@ -1,0 +1,14 @@
+﻿
+GET http://localhost:5021/genres
+
+###
+POST http://localhost:5021/genres
+Content-Type: application/json
+
+{
+  "name": "Adventure"
+}
+
+###
+DELETE http://localhost:5021/genres/25
+Content-Type: application/json

@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\components\\pages\\newgenrepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:components\\pages\\newgenrepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\models\\genredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:models\\genredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\models\\gamesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:models\\gamesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\gamestore.frontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:gamestore.frontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\clients\\gamesclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:clients\\gamesclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\models\\gamedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:models\\gamedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\components\\pages\\deletegame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:components\\pages\\deletegame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|c:\\users\\hp\\onedrive\\desktop\\gs\\gamestore.frontend\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD299BA8-7D52-4F34-8BAF-18DC5A673C35}|GameStore.Frontend.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 176,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Models\\GenreDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\GenreDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Models\\GenreDbContext.cs",
+              "RelativeToolTip": "Models\\GenreDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:23:51.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditGame.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\Pages\\EditGame.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\EditGame.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\Pages\\EditGame.razor",
+              "RelativeToolTip": "Components\\Pages\\EditGame.razor",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwE8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T09:42:43.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteGame.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\Pages\\DeleteGame.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\DeleteGame.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\Pages\\DeleteGame.razor",
+              "RelativeToolTip": "Components\\Pages\\DeleteGame.razor",
+              "ViewState": "AQIAABQAAAAAAAAAAAAEwCEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T09:33:12.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameSummary.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Models\\GameSummary.cs",
+              "RelativeDocumentMoniker": "Models\\GameSummary.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Models\\GameSummary.cs",
+              "RelativeToolTip": "Models\\GameSummary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:05:27.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T08:49:25.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameDetails.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Models\\GameDetails.cs",
+              "RelativeDocumentMoniker": "Models\\GameDetails.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Models\\GameDetails.cs",
+              "RelativeToolTip": "Models\\GameDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:05:34.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T05:47:02.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GamesClient.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Clients\\GamesClient.cs",
+              "RelativeDocumentMoniker": "Clients\\GamesClient.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Clients\\GamesClient.cs",
+              "RelativeToolTip": "Clients\\GamesClient.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:29:34.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T04:38:08.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T04:37:35.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T04:37:23.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T05:59:22.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameStore.Frontend.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\GameStore.Frontend.csproj",
+              "RelativeDocumentMoniker": "GameStore.Frontend.csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\GameStore.Frontend.csproj",
+              "RelativeToolTip": "GameStore.Frontend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T09:07:48.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T05:18:17.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewGenrePage.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\Pages\\NewGenrePage.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\NewGenrePage.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Components\\Pages\\NewGenrePage.razor",
+              "RelativeToolTip": "Components\\Pages\\NewGenrePage.razor",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwCUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T05:15:40.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GS\\GameStore.Frontend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAtwB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:39:10.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

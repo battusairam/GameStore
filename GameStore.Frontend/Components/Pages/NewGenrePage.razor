@@ -1,0 +1,115 @@
+﻿@page "/NewGenrePage"
+@inject IJSRuntime JSRuntime
+@inject GenresClient GenresClient
+@rendermode InteractiveServer
+
+<select @bind="selectedItem">
+    <option value="">--Select--</option>
+    @foreach (var genre in genres)
+    {
+        <option value="@genre.Id">@genre.Name</option>
+    }
+</select>
+
+ 
+<a role="button" @onclick=" DeleteSelectedGenre " class="btn btn-secondary" >Delete Genre</a>
+
+<input type="text" @bind="newGenreName" placeholder="Enter a new genre">
+ 
+<a role="button" @onclick="AddNewGenre" class="btn btn-primary" href="/">Add New Genre</a>
+
+@code {
+    private string? selectedItem;
+    private List<Genre> genres = new List<Genre>();
+    private string? newGenreName;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadGenresAsync();
+    }
+
+    private async Task LoadGenresAsync()
+    {
+        genres = (await GenresClient.GetGenresAsync()).ToList();
+    }
+
+    private async Task AddNewGenre()
+    {
+        if (!string.IsNullOrWhiteSpace(newGenreName))
+        {
+            var newGenre = new Genre { Name = newGenreName };
+
+            try
+            {
+                // Save the new genre to the database
+                await GenresClient.AddGenreAsync(newGenre);
+
+                // Reload genres from the server to reflect the changes
+                await LoadGenresAsync();
+
+                // Clear the input field
+                newGenreName = "";
+
+                StateHasChanged(); // Update the UI (Blazor to refresh the UI to reflect those changes)
+
+                // Show success message
+                await JSRuntime.InvokeVoidAsync("alert", "Genre added successfully.");
+            }
+            catch (Exception ex)
+            {
+                // Show error message
+                await JSRuntime.InvokeVoidAsync("alert", $"Error adding genre: {ex.Message}");
+            }
+        }
+        else
+        {
+            // Show alert message using JavaScript interop
+            await JSRuntime.InvokeVoidAsync("alert", "Please enter a new genre name.");
+        }
+    }
+    private async Task DeleteSelectedGenre()
+    {
+        if (!string.IsNullOrEmpty(selectedItem))
+        {
+            // Show confirmation pop-up
+            bool confirmed = await JSRuntime.InvokeAsync<bool>("confirm", "Are you sure you want to delete this genre?");
+            if (confirmed)
+            {
+                try
+                {
+                    // Convert the selected item to integer (assuming it's the genre ID)
+                    if (int.TryParse(selectedItem, out int genreId))
+                    {
+                        // Delete the selected genre from the database
+                        await GenresClient.DeleteGenreAsync(genreId);
+
+                        // Reload genres from the server to reflect the changes
+                        await LoadGenresAsync();
+
+                        // Clear the selection
+                        selectedItem = "";
+                        StateHasChanged(); // Update the UI
+
+                        // Show success message
+                        await JSRuntime.InvokeVoidAsync("alert", "Genre deleted successfully.");
+                    }
+                    else
+                    {
+                        // Show error message if conversion fails
+                        await JSRuntime.InvokeVoidAsync("alert", "Invalid genre ID.");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    // Show error message
+                    await JSRuntime.InvokeVoidAsync("alert", $"Error deleting genre: {ex.Message}");
+                }
+            }
+        }
+        else
+        {
+            // Show alert message if no genre is selected
+            await JSRuntime.InvokeVoidAsync("alert", "Please select a genre to delete.");
+        }
+    }
+}
